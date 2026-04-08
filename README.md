@@ -17,9 +17,9 @@ and produces structured research reports. Features a clean Streamlit UI.
 Topic Input → Agent Plans Searches → Web Search (Tavily) → Synthesise → Report
 
 ## Tech Stack
-- Claude API (Anthropic) — AI brain and autonomous decision making
-- Tavily API — web search built for AI agents
-- Streamlit — web interface
+- Claude API (Anthropic) → AI brain and autonomous decision making
+- Tavily API → web search built for AI agents
+- Streamlit → web interface
 - Python
 - python-dotenv
 
